@@ -1,0 +1,30 @@
+#navbar {
+    background: #45225d;
+    padding: 50px;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+a {
+    font-style: italic;
+    color: whitesmoke;
+}
+#title {
+    margin: 2px;
+}
+
+h1 {
+    font-style: italic;
+}
+
+h5 {
+    margin: 2px;
+}
+
+body {
+    background: #c6bde5;
+    color: rebeccapurple;
+    font-family: Ebrima;
+    margin-left: 20px;
+    margin-right: 20px;
+}
