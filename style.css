@@ -5,6 +5,14 @@
     margin-bottom: 10px;
 }
 
+body {
+    background: #c6bde5;
+    color: rebeccapurple;
+    font-family: Ebrima;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 a {
     font-style: italic;
     color: whitesmoke;
@@ -21,10 +29,3 @@ h5 {
     margin: 2px;
 }
 
-body {
-    background: #c6bde5;
-    color: rebeccapurple;
-    font-family: Ebrima;
-    margin-left: 20px;
-    margin-right: 20px;
-}
