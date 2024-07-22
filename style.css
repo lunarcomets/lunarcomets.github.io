@@ -3,6 +3,7 @@ html, body {
     padding: 0;
     background: linear-gradient( rgba(68, 3, 52, 0.75), rgb(157, 99, 175) ), url('resources/bg.png');
     line-height: 1.6;
+    min-height: 1080px;
 }
 
 .montserrat-font {
@@ -10,6 +11,7 @@ html, body {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+    color: #EEEEEE;
     }
 
 /* nav styling */
@@ -36,7 +38,8 @@ main {
     margin: 40px auto;
     padding: 10px 50px;
     max-width: 650px;
-    background-color: #c6bde5;
+    min-height: ;
+    background-color: #45225d;
     border-style: outset;
     border-width: 20px;
     border-color: #45225d;
